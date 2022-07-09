@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagonalDifference", "Diago
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingSort1", "CountingSort1\CountingSort1.csproj", "{B716BB19-97B3-4A28-B4E8-3A72579D9F81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2", "Test2\Test2.csproj", "{157AE277-706F-4D8F-AB08-E070E198C840}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B716BB19-97B3-4A28-B4E8-3A72579D9F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B716BB19-97B3-4A28-B4E8-3A72579D9F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B716BB19-97B3-4A28-B4E8-3A72579D9F81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157AE277-706F-4D8F-AB08-E070E198C840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157AE277-706F-4D8F-AB08-E070E198C840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157AE277-706F-4D8F-AB08-E070E198C840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157AE277-706F-4D8F-AB08-E070E198C840}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
