@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingSort1", "CountingSo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test2", "Test2\Test2.csproj", "{157AE277-706F-4D8F-AB08-E070E198C840}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TowerBreakers", "TowerBreakers\TowerBreakers.csproj", "{ECBF6B97-60DD-4488-AF14-DEDCBD5A410A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerBreakers", "TowerBreakers\TowerBreakers.csproj", "{ECBF6B97-60DD-4488-AF14-DEDCBD5A410A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCiper", "CaesarCiper\CaesarCiper.csproj", "{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{ECBF6B97-60DD-4488-AF14-DEDCBD5A410A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECBF6B97-60DD-4488-AF14-DEDCBD5A410A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECBF6B97-60DD-4488-AF14-DEDCBD5A410A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
