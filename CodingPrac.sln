@@ -21,7 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test2", "Test2\Test2.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TowerBreakers", "TowerBreakers\TowerBreakers.csproj", "{ECBF6B97-60DD-4488-AF14-DEDCBD5A410A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarCiper", "CaesarCiper\CaesarCiper.csproj", "{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CaesarCiper", "CaesarCiper\CaesarCiper.csproj", "{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test3", "Test3\Test3.csproj", "{3A1790ED-4B9B-403B-A59E-4112D5B14FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridChallenge", "GridChallenge\GridChallenge.csproj", "{E06138F7-AB55-4ED9-8ADC-774D9F1A544A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{291F0BFF-B8E7-4F85-AB00-FFF238137BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A1790ED-4B9B-403B-A59E-4112D5B14FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A1790ED-4B9B-403B-A59E-4112D5B14FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A1790ED-4B9B-403B-A59E-4112D5B14FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A1790ED-4B9B-403B-A59E-4112D5B14FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06138F7-AB55-4ED9-8ADC-774D9F1A544A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06138F7-AB55-4ED9-8ADC-774D9F1A544A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06138F7-AB55-4ED9-8ADC-774D9F1A544A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06138F7-AB55-4ED9-8ADC-774D9F1A544A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
