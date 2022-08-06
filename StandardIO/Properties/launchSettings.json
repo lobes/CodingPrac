@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "StandardIO": {
+      "commandName": "Project",
+      "commandLineArgs": "inputfile.txt outputfile.txt"
+    }
+  }
+}
