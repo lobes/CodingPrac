@@ -19,7 +19,7 @@ public class InsertTabs
         try
         {
             // Attempt to open output file.
-            using (var writer = new StreamWriter(args[1]))he default value is System.IO.FileOptions.None, which indicates synchronous
+            using (var writer = new StreamWriter(args[1]))
             {
                 using (var reader = new StreamReader(args[0]))
                 {
